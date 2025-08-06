@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16755440.svg)](https://doi.org/10.5281/zenodo.16755440)
-![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.Altum_PT)
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.Altum_PT_Footprint)
 
 # Altum_PT_Footprint
 ## A Python Tool for Altum-PT Sensor Footprint Generation and Georeferencing - Altum_PT_Footprint

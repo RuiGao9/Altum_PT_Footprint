@@ -12,6 +12,11 @@
 
 ## Document description
 1. `Altum-PT-Flyer.pdf`. This [flyer](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ageagle.com/wp-content/uploads/2022/07/AgEagle-Altum-PT-Brochure-EN.pdf) shows a few important parameters for the sensor which we used to build the footprint model.
+2. `README.md`. This file. Provides an overview of the project, documentation, citation, and contact information.
+3. `latlon_to_utm.py`. Contains the function to convert latitude and longitude coordinates to UTM coordinates.
+4. `get_footprint_geometry.py`. Contains the function to calculate the sensor footprint size and pixel resolution based on sensor parameters.
+5. `create_fishnet.py`. Contains the function to generate a fishnet grid (as a GeoDataFrame) for the sensor footprint and export it as a shapefile.
+6. `main.ipynb`. A few parameters need to be adjusted here for your research. After define those parameters (`output_folder`, `height`, `lat`, and `lon`), click `run` button. You are supposed to get the results at `output_folder`.
 
 ## Citation
 If you use this repository in your work, please cite it using the following DOI:
@@ -32,7 +37,7 @@ If you use this repository in your work, please cite it using the following DOI:
 
 ## Repository update information:
 - **Creation date:** 2025-08-05
-- **Last update:** 2025-08-05
+- **Last update:** 2025-08-06
 
 ## Contact information if issues were found:
 Rui Gao<br>

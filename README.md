@@ -11,7 +11,7 @@
 
 
 ## Document description
-1. `Altum-PT-Flyer.pdf`. This flyer shows a few important parameters for the sensor which we used to build the footprint model.
+1. `Altum-PT-Flyer.pdf`. This [flyer](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ageagle.com/wp-content/uploads/2022/07/AgEagle-Altum-PT-Brochure-EN.pdf) shows a few important parameters for the sensor which we used to build the footprint model.
 
 ## Citation
 If you use this repository in your work, please cite it using the following DOI:

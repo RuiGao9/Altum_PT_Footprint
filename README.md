@@ -11,7 +11,7 @@
 
 
 ## Document description
-
+1. `Altum-PT-Flyer.pdf`. This flyer shows a few important parameters for the sensor which we used to build the footprint model.
 
 ## Citation
 If you use this repository in your work, please cite it using the following DOI:

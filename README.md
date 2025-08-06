@@ -17,7 +17,9 @@
 3. `latlon_to_utm.py`. Contains the function to convert latitude and longitude coordinates to UTM coordinates.
 4. `get_footprint_geometry.py`. Contains the function to calculate the sensor footprint size and pixel resolution based on sensor parameters.
 5. `create_fishnet.py`. Contains the function to generate a fishnet grid (as a GeoDataFrame) for the sensor footprint and export it as a shapefile.
-6. `main.ipynb`. A few parameters need to be adjusted here for your research. After define those parameters (`output_folder`, `height`, `lat`, and `lon`), click `run` button. You are supposed to get the results at `output_folder`.
+6. `main.ipynb`. A few parameters need to be adjusted here for your research. After define those parameters (`output_folder`, `height`, `lat`, and `lon`), click `run` button. You are supposed to get the results at `output_folder`.<br>
+
+Notes: The Coordinate Reference System (CRS) used in this research is `EPSG:32610`. If your project uses a different `CRS`, be sure to update this value accordingly.
 
 ## Citation
 If you use this repository in your work, please cite it using the following DOI:

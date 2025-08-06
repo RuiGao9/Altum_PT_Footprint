@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16755440.svg)](https://doi.org/10.5281/zenodo.16755440)
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.Altum_PT)
 
 # Altum_PT_Footprint
@@ -16,7 +16,7 @@
 ## Citation
 If you use this repository in your work, please cite it using the following DOI:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16755440.svg)](https://doi.org/10.5281/zenodo.16755440)
 
 **BibTeX:**
 ```bibtex
@@ -25,8 +25,8 @@ If you use this repository in your work, please cite it using the following DOI:
   title        = {A Python Tool for Altum-PT Sensor Footprint Generation and Georeferencing – Altum_PT_Footprint},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.xxxxxxx},
-  url          = {https://doi.org/10.5281/zenodo.xxxxxxx}
+  doi          = {10.5281/zenodo.16755440},
+  url          = {https://doi.org/10.5281/zenodo.16755440}
 }
 ```
 

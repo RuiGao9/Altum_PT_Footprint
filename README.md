@@ -4,8 +4,8 @@
 # Altum_PT_Footprint
 ## A Python Tool for Altum-PT Sensor Footprint Generation and Georeferencing - Altum_PT_Footprint
 <p align="center">Rui Gao<sup>1,2</sup>, Mohammad Safeeq<sup>1,2</sup>, Joshua H. Viers<sup>1,2</sup></p>
-<sup>1</sup>Department of Civil and Environmental Engineering, University of California Merced, Merced, CA 95343, USA<br>
-<sup>2</sup>Valley Institute for Sustainable Technology & Agriculture, University of California Merced, Merced, CA 95343, USA<br>
+<sup>1</sup>Department of Civil and Environmental Engineering, University of California, Merced, CA 95343, USA<br>
+<sup>2</sup>Valley Institute for Sustainable Technology & Agriculture, University of California, Merced, CA 95343, USA<br>
 
 ## Project overview
 <p>Installing field sensors enables continuous monitoring, offering valuable insights into how vegetation responds to changing environmental conditions such as temperature and sunlight. To design effective experiments, it's important to understand the sensor's field of view—specifically, how much area it can observe and what types of features it will capture. Pre-field modeling is especially useful for planning in environments that may pose physical hazards or logistical challenges for researchers.</p>
